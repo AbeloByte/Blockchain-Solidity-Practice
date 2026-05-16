@@ -4,51 +4,51 @@
 
 This repository is a collaborative learning project where our team completes the **Solidity course** from [Alchemy University](https://www.alchemy.com/university/courses/solidity). We're documenting our progress, sharing code, and building our foundations in smart contract development.
 
-**Assignment is About :** Learn and practice Solidity - Alchemy University
-
-## 🎯 Assignment Objectives
-
-- [x] Register for Alchemy University
-- [ ] Complete the Learn Solidity course modules
-- [ ] Document course progress with screenshots
-- [ ] Build and organize all course codebases
-- [ ] Collaborate on GitHub with public contributions from each member
-- [ ] Organize resources into designated folders
 
 ---
 
 ## 👥 Team Members
+#### CSE - Section 3
 
-| Name     | GitHub                                   | Role |
-| -------- | ---------------------------------------- | ---- |
-| Member 1 | [@username](https://github.com/username) |      |
-| Member 2 | [@username](https://github.com/username) |      |
-| Member 3 | [@username](https://github.com/username) |      |
-| Member 4 | [@username](https://github.com/username) |      |
-| Member 5 | [@username](https://github.com/username) |      |
-
+| Name     | ID                                   |
+| -------- | ---------------------------------------- |
+| Abel Adane | UGR / 25638 / 14 |
+| Member 2 | UGR /  / 14 |
+| Member 3 | UGR /  / 14 |
+| Member 4 | UGR /  / 14 |
+| Member 5 | UGR /  / 14 |
 ---
 
 ## 📁 Repository Structure
 
 ```
 Blockchain-Entrance/
-├── README.md                          # This file
-├── course-materials/                  # Official course resources
-│   ├── lectures/
-│   ├── tutorials/
-│   └── documentation/
 ├── codebases/                         # All projects built during course
-│   ├── module-1-basics/
-│   ├── module-2-smart-contracts/
-│   ├── module-3-advanced/
+│   ├── module-1 Solidity Introduction/
+│   │   ├── examples/                  # Example contracts for lessons
+│   │   ├── practice/                  # Practice exercises
+│   │   │   ├── Practice Data Types/   # Data types practice
+│   │   │   │   ├── 1 - Booleans/
+│   │   │   │   ├── 2 - Unsigned Integers/
+│   │   │   │   ├── 3 - Signed Integers/
+│   │   │   │   ├── 4 - String Literals/
+│   │   │   │   ├── 5 - Enum/
+│   │   │   │   └── task-question.md
+│   │   │   └── Practice Solidity Functions/  # Functions practice
+│   │   │       ├── 1 - Arguments/
+│   │   │       ├── 2 - Increment/
+│   │   │       ├── 3 - View Addition/
+│   │   │       ├── 4 - Console Log/
+│   │   │       ├── 5 - Pure Double/
+│   │   │       └── 6 - Double Overload/
+│   │   └── README.md                  # Lesson notes and progress
+│   ├── module-2 Address Interactions/
+│   ├── module-3 Reference Types/
 │   └── ...
-├── progress/                          # Course completion tracking
-│   ├── screenshots/                   # Module completion screenshots
-│   └── progress-log.md               # Individual progress tracking
-└── resources/                         # Additional learning materials
-    ├── external-links.md
-    └── notes/
+├── course-materials/
+    └── Distrubted Materials
+
+
 ```
 
 ---
@@ -85,14 +85,25 @@ Blockchain-Entrance/
 
 ---
 
-## 📖 Course Progress
+## Module 1: Solidity Basics
 
-| Module                      | Status         | Completed By | Date |
-| --------------------------- | -------------- | ------------ | ---- |
-| Module 1: Solidity Basics   | 🔄 In Progress | -            | -    |
-| Module 2: Smart Contracts   | ⏳ Pending     | -            | -    |
-| Module 3: Advanced Concepts | ⏳ Pending     | -            | -    |
-| Module 4: Best Practices    | ⏳ Pending     | -            | -    |
+This module contains the first course notes and practice work for Solidity fundamentals.
+
+### Lesson Notes
+
+- [Module 1 README](codebases/module-1-basics/README.md)
+
+### Practice Structure
+
+- [Practice folder](codebases/module-1-basics/practice)
+- [Practice data types](codebases/module-1-basics/practice/Practice%20Data%20Types)
+- [Practice Solidity functions](codebases/module-1-basics/practice/Practice%20Solidity%20Functions)
+
+### Current Focus
+
+- Data types
+- Solidity functions
+- Practice exercises and screenshots
 
 ---
 
