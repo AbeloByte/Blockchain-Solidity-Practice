@@ -76,34 +76,12 @@ Blockchain-Entrance/
     - Sign up for a free account
     - Enroll in the "Learn Solidity" course
 
-3. **Set up development environment:**
-    ```bash
-    npm init -y
-    npm install hardhat
-    npx hardhat
-    ```
 
 ---
 
 ## Module 1: Solidity Basics
 
 This module contains the first course notes and practice work for Solidity fundamentals.
-
-### Lesson Notes
-
-- [Module 1 README](codebases/module-1-basics/README.md)
-
-### Practice Structure
-
-- [Practice folder](codebases/module-1-basics/practice)
-- [Practice data types](codebases/module-1-basics/practice/Practice%20Data%20Types)
-- [Practice Solidity functions](codebases/module-1-basics/practice/Practice%20Solidity%20Functions)
-
-### Current Focus
-
-- Data types
-- Solidity functions
-- Practice exercises and screenshots
 
 ---
 
@@ -118,35 +96,5 @@ module-[number]-[description]-[date].png
 Example: `module-1-intro-2024-01-15.png`
 
 ---
-
-## 🤝 Contributing Guidelines
-
-1. **Create a branch** for your work:
-
-    ```bash
-    git checkout -b feature/module-x-yourname
-    ```
-
-2. **Make your commits** with clear messages:
-
-    ```bash
-    git commit -m "Complete Module X: [description]"
-    ```
-
-3. **Push to repository:**
-
-    ```bash
-    git push origin feature/module-x-yourname
-    ```
-
-4. **Create a Pull Request** for review by team members
-
-### Commit Message Format
-
-```
-[Module X] - Brief description of what was completed
-```
-
-Example: `[Module 2] - Implemented ERC20 token contract`
 
 ---
