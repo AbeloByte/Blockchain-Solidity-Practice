@@ -15,6 +15,8 @@ Section: CSE - 3
 | Abel Adane       | UGR/25638/14 |
 | Aschalew Abayneh | UGR/25742/14 |
 | Biruk Tesfaye    | UGR/25568/14 |
+| Abel Gebru       | UGR/26305/14 |
+| Duressa Shukuri  | UGR/25272/14 |
 
 ## Repository Layout
 
@@ -36,6 +38,8 @@ Blockchain-Entrance/
 |   |   `-- module-4 Applied Solidity/
 |   |-- Aschalew/
 |   `-- Biruk/
+|   |-- Duressa/
+|   `-- Abel/
 |-- course-materials/
 |   `-- Distrubted Materials/
 |       `-- README.md
