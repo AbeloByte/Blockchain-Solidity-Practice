@@ -1,29 +1,51 @@
-# Module 2: Smart Contracts Development
+# Module 2: Address Interactions
+
+## Owner
+
+Abel Adane
 
 ## Overview
 
-Building and deploying smart contracts on the blockchain.
+This module focuses on interacting with addresses and contracts, handling Ether
+transfers, and preventing unauthorized behavior with reverts and access control.
 
-## Topics Covered
+## Practice Sections
 
-- Contract structure
-- State variables
-- Functions and modifiers
-- Gas optimization
-- Security considerations
-- Inheritance and interfaces
+### Calling Contracts
 
-## Projects
+- 1 Call Function
+- 2 Signature
+- 3 With Signature
+- 4 Arbitrary Alert
+- 5 Fallback
 
-- [Add your projects here]
+### Escrow
 
-## Progress
+- 1 Setup
+- 2 Constructor
+- 3 Funding
+- 4 Approval
+- 5 Security
+- 6 Events
 
-- [ ] Complete all lessons
-- [ ] Finish exercises
-- [ ] Deploy test contracts
-- [ ] Submit module
+### Reverting Transactions
 
-**Started:** [Date]
-**Completed:** [Date]
-**Team Member:** [Name]
+- 1 Constructor Revert
+- 2 Only Owner
+- 3 Owner Modifier
+
+### Sending Ether
+
+- 1 Storing Owner
+- 2 Receive Ether
+- 3 Tip Owner
+- 4 Charity
+- 5 Self Destruct
+
+## What This Module Practices
+
+- Low-level contract calls and function signatures
+- Fallback behavior and payable flows
+- Reverting with `require` and modifiers
+- Ownership checks and security-focused logic
+- Receiving, forwarding, and managing Ether in contracts

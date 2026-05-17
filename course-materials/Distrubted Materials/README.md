@@ -1,12 +1,13 @@
-#### Resources
-###### Presentations: https://github.com/alchemyplatform/learn-solidity-presentations
-###### Marp Tool: https://marp.app/
-###### Foundry: https://book.getfoundry.sh/
+# Distributed Materials Resources
 
+Useful external resources for this Solidity learning workspace.
 
+## Core Resources
 
-##### Related to smart contract
-An awesome interactive resource for understanding EVM opcodes:
-###### https://www.evm.codes/
+- Alchemy Solidity Presentations: https://github.com/alchemyplatform/learn-solidity-presentations
+- Marp (slide tool): https://marp.app/
+- Foundry Book: https://book.getfoundry.sh/
 
+## Smart Contract Reference
 
+- EVM Opcodes Explorer: https://www.evm.codes/

@@ -1,100 +1,57 @@
-# Blockchain Entrance: Solidity Course Learning Journey
+# Blockchain Entrance
 
-## 📚 Project Overview
+## Overview
 
-This repository is a collaborative learning project where our team completes the **Solidity course** from [Alchemy University](https://www.alchemy.com/university/courses/solidity). We're documenting our progress, sharing code, and building our foundations in smart contract development.
+This repository tracks Solidity practice work from Alchemy University course modules.
+The main focus is completing exercises, keeping solutions organized by module, and
+documenting progress per member.
 
+## Team
 
----
+Section: CSE - 3
 
-## 👥 Team Members
-#### CSE - Section 3
+| Name       | ID           |
+| ---------- | ------------ |
+| Abel Adane | UGR/25638/14 |
 
-| Name     | ID                                   |
-| -------- | ---------------------------------------- |
-| Abel Adane | UGR / 25638 / 14 |
-| Member 2 | UGR /  / 14 |
-| Member 3 | UGR /  / 14 |
-| Member 4 | UGR /  / 14 |
-| Member 5 | UGR /  / 14 |
----
-
-## 📁 Repository Structure
+## Repository Layout
 
 ```
 Blockchain-Entrance/
-├── codebases/                         # All projects built during course
-│   ├── module-1 Solidity Introduction/
-│   │   ├── examples/                  # Example contracts for lessons
-│   │   ├── practice/                  # Practice exercises
-│   │   │   ├── Practice Data Types/   # Data types practice
-│   │   │   │   ├── 1 - Booleans/
-│   │   │   │   ├── 2 - Unsigned Integers/
-│   │   │   │   ├── 3 - Signed Integers/
-│   │   │   │   ├── 4 - String Literals/
-│   │   │   │   ├── 5 - Enum/
-│   │   │   │   └── task-question.md
-│   │   │   └── Practice Solidity Functions/  # Functions practice
-│   │   │       ├── 1 - Arguments/
-│   │   │       ├── 2 - Increment/
-│   │   │       ├── 3 - View Addition/
-│   │   │       ├── 4 - Console Log/
-│   │   │       ├── 5 - Pure Double/
-│   │   │       └── 6 - Double Overload/
-│   │   └── README.md                  # Lesson notes and progress
-│   ├── module-2 Address Interactions/
-│   ├── module-3 Reference Types/
-│   └── ...
-├── course-materials/
-    └── Distrubted Materials
-
-
+|-- codebases/
+|   |-- Abel Adane/
+|   |   |-- module-1 Solidity Introduction/
+|   |   |   |-- README.md
+|   |   |   `-- practice/
+|   |   |-- module-2 Address Interactions/
+|   |   |   |-- README.md
+|   |   |   `-- practice/
+|   |   |-- module-3 Reference Types/
+|   |   |   |-- README.md
+|   |   |   |-- Arrays/
+|   |   |   |-- Mappings/
+|   |   |   `-- Structs/
+|   |   `-- module-4 Applied Solidity/
+|   |-- Aschalew/
+|   `-- Biruk/
+|-- course-materials/
+|   `-- Distrubted Materials/
+|       `-- README.md
+`-- Readme.md
 ```
 
----
+## Learning Flow
 
-## 🚀 Getting Started
+1. Read the lesson from Alchemy University.
+2. Open the corresponding practice folder.
+3. Implement contract logic in the provided `.sol` file(s).
+4. Run tests where test files exist (`*.t.sol`).
+5. Commit progress with clear messages.
 
-### Prerequisites
+## Tools
 
-- [Node.js](https://nodejs.org/) (v16 or higher)
-- [Git](https://git-scm.com/)
-- Alchemy University Account
-- Code Editor (VS Code recommended)
-
-### Setup Instructions
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone <repository-url>
-    cd Blockchain-Entrance
-    ```
-
-2. **Register for Alchemy University:**
-    - Visit https://www.alchemy.com/university
-    - Sign up for a free account
-    - Enroll in the "Learn Solidity" course
+- Foundry (for Solidity testing workflow)
+- Git and GitHub
+- VS Code
 
 
----
-
-## Module 1: Solidity Basics
-
-This module contains the first course notes and practice work for Solidity fundamentals.
-
----
-
-## 📸 Progress Documentation
-
-Screenshots of completed modules and certificates should be placed in the `progress/screenshots/` folder with the naming convention:
-
-```
-module-[number]-[description]-[date].png
-```
-
-Example: `module-1-intro-2024-01-15.png`
-
----
-
----
