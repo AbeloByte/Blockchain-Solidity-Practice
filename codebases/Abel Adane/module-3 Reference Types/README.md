@@ -1,9 +1,5 @@
 # Module 3: Reference Types
 
-## Owner
-
-Abel Adane
-
 ## Overview
 
 This module focuses on Solidity reference types with hands-on practice using
