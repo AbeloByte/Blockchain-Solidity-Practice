@@ -43,15 +43,13 @@ Blockchain-Entrance/
 ## Learning Flow
 
 1. Read the lesson from Alchemy University.
-2. Open the corresponding practice folder.
-3. Implement contract logic in the provided `.sol` file(s).
-4. Run tests where test files exist (`*.t.sol`).
-5. Commit progress with clear messages.
+2. Read practice question from Alchemy Solidty Section.
+3. Implement contract logic in the provided `.sol`.
+4. Run tests where test.
+5. Finally write and copy all the practice answer that we did on alchemy to vscode and Commit progress
 
 ## Tools
 
-- Foundry (for Solidity testing workflow)
 - Git and GitHub
 - VS Code
-
-
+- alchemy Codespace
