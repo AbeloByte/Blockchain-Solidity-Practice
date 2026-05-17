@@ -10,10 +10,11 @@ documenting progress per member.
 
 Section: CSE - 3
 
-| Name       | ID           |
-| ---------- | ------------ |
-| Abel Adane | UGR/25638/14 |
-| Aschalew Abayneh | ugr/25742/14 |
+| Name             | ID           |
+| ---------------- | ------------ |
+| Abel Adane       | UGR/25638/14 |
+| Aschalew Abayneh | UGR/25742/14 |
+| Biruk Tesfaye    | UGR/25568/14 |
 
 ## Repository Layout
 
