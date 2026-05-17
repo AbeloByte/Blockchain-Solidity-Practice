@@ -13,6 +13,7 @@ Section: CSE - 3
 | Name       | ID           |
 | ---------- | ------------ |
 | Abel Adane | UGR/25638/14 |
+| Aschalew Abayneh | ugr/25742/14 |
 
 ## Repository Layout
 
